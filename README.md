@@ -1,4 +1,4 @@
-![image](https://github.com/SamRosentel/medcreds/assets/17102396/2ca58be6-6fbb-434b-887a-39f25152af88)# medcreds
+# medcreds
 ## V1 Project Goals
 - Extract Washington State Department of Health credential data and upload in a dynamoDB 
 - Connect database to [DBT data warehouse](https://www.getdbt.com/)
